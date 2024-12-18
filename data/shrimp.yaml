@@ -1,0 +1,7 @@
+
+train: ../MASTER_DATASET/images/train/  # train images (relative to 'path') 128 images
+val: ../MASTER_DATASET/images/val/  # val images (relative to 'path') 128 images
+
+nc: 2
+
+names: ['FISH','SHRIMP']
